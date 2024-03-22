@@ -28,7 +28,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="copyright">&copy; Copyright 2022 Milk Treats, Dac. This is not a real eccomerce website. Made for development purposes only.</div>
+	<div class="copyright">&copy; Copyright 2022 Milk Treats, Mac.Malonza . This is not a real eccomerce website. Made for development purposes only.</div>
 </footer>
 <hr>
 </body>
